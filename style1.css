@@ -1,0 +1,101 @@
+.container{
+    height: 100%;
+    width: 100%;
+}
+.header{
+    height: 10%;
+    width: 100%;
+    display: flex;
+}
+.logo{
+    height: 100%;
+    width: 40%;
+}
+.search{
+    height: 100%;
+    width: 40%;
+    align-content: center;
+}
+.nav{
+    height: 10%;
+    width: 100%;
+}
+.about{
+    height: 100%;
+    width: 20%;
+    float: left;
+}
+.home{
+    height: 100%;
+    width: 20%;
+    float:  left;
+}
+.service{
+    height: 100%;
+    width: 20%;
+    float: left;
+}
+.product{
+    height: 100%;
+    width: 20%;
+    float: left;
+}
+.contact{
+    height: 100%;
+    width: 20%;
+    float: left;
+}
+.slider{
+    height: 20%;
+    width: 100%;
+}
+.content{
+    height: 50%;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.p1{
+    height: 100%;
+    width: 20%;
+    float: inline-start;
+}
+.p2{
+    height: 33.3%;
+    width: 26.6%;
+    float: left;
+}
+.p3{
+    height: 33.3%;
+    width: 26.6%;
+    float: left;
+}
+.p4{
+    height: 33.3%;
+    width: 26.6%;
+    float: left;
+}
+.p5{
+    height: 33.3%;
+    width: 40%;
+    float: left;
+}
+.p6{
+    height: 33.3%;
+    width: 40%;
+    float: left;
+}
+.p7{
+    height: 33.3%;
+    width: 40%;
+    float: left;
+}
+.p8{
+    height: 33.3%;
+    width: 40%;
+    float: left;
+}
+.copyrights{
+    height: 10%;
+    width: 100%;
+    text-align: center;
+}
