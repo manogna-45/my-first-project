@@ -4,3 +4,4 @@ This repo consists of
 - index.html
 - product.html
 - project.html
+- service.html
