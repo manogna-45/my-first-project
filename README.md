@@ -5,3 +5,4 @@ This repo consists of
 - product.html
 - project.html
 - service.html
+- style.css
