@@ -7,3 +7,4 @@ This repo consists of
 - service.html
 - style.css
 - style1.css
+- style2.css
